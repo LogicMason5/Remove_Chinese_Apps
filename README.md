@@ -1,4 +1,4 @@
-# Remove_Dragon
+# Remove_Chinese_Apps
 An app to remove Chinese apps
 
 Download/Test the App:
