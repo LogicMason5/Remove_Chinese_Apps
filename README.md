@@ -1,5 +1,6 @@
 # Remove_Chinese_Apps
 An app to remove Chinese apps
-
+## Usage ##
+[!alt text](https://github.com/mohitkum4r/Remove-Chinese-Apps/blob/master/Screenrecorder-2020-12-18-10-34.gif)
 Download/Test the App:
 https://drive.google.com/file/d/1bmmpMTH-0drmnnCT1RVGrE4bla28-Hks/view?usp=sharing
